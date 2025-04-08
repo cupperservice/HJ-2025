@@ -1,0 +1,25 @@
+site_name: 2025年度 セキュリティネットワーク科
+use_directory_urls: true
+theme:
+  name: material
+  palette:
+    primary: green
+  alternate:
+    - name: Japanese
+      link: /
+      lang: ja
+  features:
+    - content.code.copy
+plugins:
+  search:
+    lang: 'ja'
+markdown_extensions:
+    # コードハイライトの設定
+    - codehilite:
+        noclasses: true
+        pygments_style: colorful
+        linenums: false
+nav:
+  - Home: index.md
+  - 自己紹介: Introduce_Myself/index.md
+  - オリエンテーション: Orientation/index.md
