@@ -57,6 +57,23 @@ AWS Academy の以下の3つのコースにみなさんのアカウントを登�
 
 みなさんのメールアドレス宛に AWS Academy への招待のメールが届くので、そのメールに従ってアカウントを登録してください。
 
-### SSH クライアントの用意
-
-- [Tera Term](https://teratermproject.github.io/)
+### Web Application Builder の起動
+1. AWS Academy にログイン
+    - ログインID - 学校のメールアドレス
+    - パスワード - 自分で設定したパスワード
+2. 左のメニューから「モジュール」を選択
+![](./img/home.png)
+3. 「ラボの手順」を選択
+![](./img/lab_procedure.png)
+4. 一番下までスクロールして「I Agree」を選択
+![](./img/terms_and_conditions.png)
+5. 言語を選択  
+好きな言語を選択してください
+![](./img/select_language.png)
+6. 「Start Lab」を選択
+![](./img/start_lab.png)
+7. Lab の起動を待つ  
+AWS の右の o が緑色になったら Lab の起動完了です。
+![](./img/complete_starting_lab.png)
+8. 上記の画面の AWS をクリックすると、AWS Management Console が開きます。
+![](./img/management_console.png)
