@@ -10,6 +10,7 @@
 
 - Linux の基本的な操作  
   例: ファイル操作、プロセス操作、ネットワーク操作
+- ネットワークの基本的な理解
 - 簡単な英語読解力(翻訳サイトや ChatGPT などで翻訳して良い)  
   英語のエラーメッセージを読んで対処する必要がある場合があります。
 
@@ -28,23 +29,23 @@ AWS Academy Web Application Builder の環境を使用して AWS の環境上に
 
 ### [Kintone](https://kintone.cybozu.co.jp/) を利用した業務システムの構築
 Kintone は、サイボウズが提供するクラウド型の業務アプリケーションプラットフォームです。  
-ここでは、Kintone を利用して業務システムを構築する方法を学びます。
+ここでは、Kintone のアプリ作成の基本および、JavaScript を利用したアプリのカスタマイズの方法を学びます。
 
 ## 成績について
 この授業では期末の試験はありません。  
 成績は以下のように評価します。
 
 - AWS Academy Web Application Builder  
-  - システム構築の進捗状況
-  - ナレッジチェック
+    - システム構築の進捗状況
+    - ナレッジチェック
 
 - AWS Academy Cloud Foundations  
-  - ラボの提出
-  - 知識確認テスト
+    - ラボの提出
+    - 知識確認テスト
 
 - AWS Academy Cloud Security Foundations  
-  - ラボの提出
-  - ナレッジチェック
+    - ラボの提出
+    - ナレッジチェック
 
 - Kintone を利用した業務システムの構築  
 

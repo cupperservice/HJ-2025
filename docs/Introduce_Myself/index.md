@@ -47,6 +47,7 @@
 
 ## 活動
 * [AWS ハンズオン教材](https://docs.kawashima-kazuh.com/)
+* [kintone ハンズオン教材](https://kintone-hands-on.kawashima-kazuh.com/)
 * twitter：@cupperservice
 * Github：https://github.com/cupperservice
 * Speaker Deck：https://speakerdeck.com/cupperservice
