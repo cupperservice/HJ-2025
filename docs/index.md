@@ -6,6 +6,7 @@
 - 2025/4/15 [オリエンテーション](./Orientation/index.md)
 
 ### Cloud Web Application Builder
+- 2025/4/22 [Web Application Builder](./Web_Application_Builder/index.md)
 
 ### Cloud Foundations
 
