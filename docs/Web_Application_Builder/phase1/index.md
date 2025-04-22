@@ -37,6 +37,7 @@ us-east-1 リージョンで 12 か月間ソリューションを実行するコ
 
 ### 演習
 [AWS Pricing Calculator](https://calculator.aws/#/) を使用して、以下のサービスを利用する場合の費用見積書を作成してください。
+
 - EC2
 - RDS for MySQL
 - Application Load Balancer
