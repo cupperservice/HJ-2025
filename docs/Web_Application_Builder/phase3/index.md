@@ -138,10 +138,10 @@ Secrets Manager に RDS の接続情報を登録します。
 
 上記コマンドの以下のパラメータは自身の環境に合わせて変更してください。
 
-- <username>: RDS のマスターユーザー名
-- <password>: RDS のマスターパスワード
-- <RDS Endpoint>: RDS のエンドポイント
-- <dbname>: STUDENTS
+- `<username>`: RDS のマスターユーザー名
+- `<password>`: RDS のマスターパスワード
+- `<RDS Endpoint>`: RDS のエンドポイント
+- `<dbname>`: STUDENTS
 
 ## タスク 5: ウェブサーバーの新しいインスタンスをプロビジョニングする
 1. 検索窓に「EC2」と入力し、EC2 サービスに移動
