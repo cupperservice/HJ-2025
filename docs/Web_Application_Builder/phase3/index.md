@@ -155,7 +155,7 @@ Secrets Manager に RDS の接続情報を登録します。
     - ネットワーク設定  
       ![](./ec2-network.png)
 6. 「高度な設定」を開く
-7. IAM インスタンスプロファイルを設定
+7. IAM インスタンスプロファイルを設定 (Secret Manager へのアクセスする権限を付与)
     ![](./instance-profile.png)
 8. 「ユーザーデータ」に Web Application Builder からダウンロードした[Solution Code for the App Server](https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACCAP1-1-91571/1-lab-capstone-project-1/s3/UserdataScript-phase-3.sh)を設定する
 9. 「インスタンスを起動」を選択
