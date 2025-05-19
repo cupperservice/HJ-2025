@@ -176,7 +176,7 @@ mysqldump -h 127.0.0.1 -u nodeapp -p --databases STUDENTS > data.sql
 以下のコマンドを実行してデータベースをインポートする
 
 ```bash
-mysql -h <RDSEndpoint> -u <username> -p  STUDENTS < data.sql
+mysql -h <RDSEndpoint> -u <username> -p < data.sql
 ```
 
 - `<RDSEndpoint>` は RDS のエンドポイントに置き換える
