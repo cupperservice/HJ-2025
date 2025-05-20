@@ -75,18 +75,18 @@ Web Application Builder では、mysql コマンドと aws コマンドを使用
 ### aws コマンドをインストールする
 1. SSH 接続した EC2 インスタンスに以下のコマンドを実行して aws コマンドをインストールする
 
-    ```bash
+    ```
     sudo snap install aws-cli --classic
     ```
 
 2. aws コマンドのバージョンを確認する
 
-    ```bash
+    ```
     aws --version
     ```
     以下のようにバージョンが表示されれば成功です。
 
-    ```bash
+    ```
     aws-cli/2.27.5 Python/3.13.2 Linux/6.8.0-1024-aws exe/x86_64.ubuntu.2404
     ```
 
@@ -108,7 +108,7 @@ Web Application Builder では、mysql コマンドと aws コマンドを使用
 
 6. aws コマンドで AWS 環境に接続できる確認する
 
-    ```bash
+    ```
     aws ec2 describe-instances --region us-east-1
     ```
 
@@ -154,11 +154,12 @@ Secrets Manager に RDS の接続情報を登録します。
     - キーペア: vockey
     - ネットワーク設定  
       ![](./ec2-network.png)
-6. 「高度な設定」を開く
-7. IAM インスタンスプロファイルを設定 (Secret Manager へのアクセスする権限を付与)
+5. 「高度な設定」を開く
+6. IAM インスタンスプロファイルを設定 (Secret Manager へのアクセスする権限を付与)
     ![](./instance-profile.png)
 8. 「ユーザーデータ」に Web Application Builder からダウンロードした[Solution Code for the App Server](https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACCAP1-1-91571/1-lab-capstone-project-1/s3/UserdataScript-phase-3.sh)を設定する
 9. 「インスタンスを起動」を選択
+10. EC2 インスタンスが起動したら、再起動する
 
 ## タスク 6: データベースを移行する
 フェーズ2 で作成した EC2 インスタンスで動作しているデータベースをタスク2 で作成した RDS に移行します。
