@@ -13,6 +13,7 @@
 - 2025/5/20 [Web Application Builder](./Web_Application_Builder/index.md)
     - [フェーズ3](./Web_Application_Builder/phase3/index.md)
     - [フェーズ4](./Web_Application_Builder/phase4/index.md)
+- 2025/5/27 [Web Application Builder](./Web_Application_Builder/index.md)
 
 ### Cloud Foundations
 
