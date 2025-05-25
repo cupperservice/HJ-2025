@@ -23,4 +23,9 @@ nav:
   - Home: index.md
   - 自己紹介: Introduce_Myself/index.md
   - オリエンテーション: Orientation/index.md
-  - Web Application Builder: Web_Application_Builder/index.md
+  - Web Application Builder:
+    - Web_Application_Builder/index.md
+    - フェーズ 1: Web_Application_Builder/phase1/index.md
+    - フェーズ 2: Web_Application_Builder/phase2/index.md
+    - フェーズ 3: Web_Application_Builder/phase3/index.md
+    - フェーズ 4: Web_Application_Builder/phase4/index.md
