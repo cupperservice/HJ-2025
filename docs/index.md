@@ -16,6 +16,8 @@
 - 2025/5/27 [Web Application Builder](./Web_Application_Builder/index.md)
 
 ### Cloud Foundations
+- 2025/6/3 [Cloud Foundations](./Cloud_Foundations/index.md)
+    - モジュール1 - クラウドのコンセプト
 
 ### Cloud Security Foundations
 
@@ -25,3 +27,8 @@
 ### Web Application Builder
 - アーキテクチャ図
 - 費用見積書
+- フェーズ2
+- フェーズ3
+- フェーズ4
+
+### Cloud Foundations
