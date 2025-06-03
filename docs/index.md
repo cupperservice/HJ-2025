@@ -18,6 +18,8 @@
 ### Cloud Foundations
 - 2025/6/3 [Cloud Foundations](./Cloud_Foundations/index.md)
     - モジュール1 - クラウドのコンセプト
+    - モジュール2 - クラウドエコノミクスと請求
+       - セクション 4 - AWS 請求とコスト管理 まで
 
 ### Cloud Security Foundations
 
@@ -32,3 +34,5 @@
 - フェーズ4
 
 ### Cloud Foundations
+- 知識確認テスト
+- Lab
