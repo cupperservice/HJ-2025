@@ -20,6 +20,14 @@
     - モジュール1 - クラウドのコンセプト
     - モジュール2 - クラウドエコノミクスと請求
        - セクション 4 - AWS 請求とコスト管理 まで
+- 2025/6/10 [Cloud Foundations](./Cloud_Foundations/index.md)
+    - モジュール 2 - クラウドエコノミクスと請求
+    - モジュール 4 ｰ クラウドのセキュリティ
+        - ラボ 1 : AWS IAM の紹介 は次回
+- 2025/6/24 [Cloud Foundations](./Cloud_Foundations/index.md)
+    - ラボ 1 : AWS IAM の紹介
+    - モジュール 5 ｰ ネットワークとコンテンツ配信
+        - ラボ 2 : VPC を構築し、ウェブサーバーを起動する は次回
 
 ### Cloud Security Foundations
 
