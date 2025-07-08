@@ -28,6 +28,9 @@
     - ラボ 1 : AWS IAM の紹介
     - モジュール 5 ｰ ネットワークとコンテンツ配信
         - ラボ 2 : VPC を構築し、ウェブサーバーを起動する は次回
+- 2025/7/1 [Cloud Foundations](./Cloud_Foundations/index.md)
+    - ラボ 2 : VPC を構築し、ウェブサーバーを起動する
+    - モジュール 6 ｰ コンピューティング
 
 ### Cloud Security Foundations
 
@@ -44,3 +47,4 @@
 ### Cloud Foundations
 - 知識確認テスト
 - Lab
+- アクティビティ
