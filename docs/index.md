@@ -33,11 +33,11 @@
     - モジュール 6 ｰ コンピューティング
 - 2025/7/8 [Cloud Foundations](./Cloud_Foundations/index.md)
     - モジュール 6 ｰ コンピューティング
-      - ラボ 3 : Amazon EC2 の紹介
-      - アクティビティ: AWS Lambda [Activity 1]
-      - アクティビティ: AWS Elastic Beanstalk [Activity 2]
+        - ラボ 3 : Amazon EC2 の紹介
+        - アクティビティ: AWS Lambda [Activity 1]
+        - アクティビティ: AWS Elastic Beanstalk [Activity 2]
     - モジュール 7 ｰ ストレージ
-      - デモンストレーション [Demo] - Amazon Elastic Block Store まで
+        - デモンストレーション [Demo] - Amazon Elastic Block Store まで
 
 ### Cloud Security Foundations
 
