@@ -38,6 +38,14 @@
         - アクティビティ: AWS Elastic Beanstalk [Activity 2]
     - モジュール 7 ｰ ストレージ
         - デモンストレーション [Demo] - Amazon Elastic Block Store まで
+- 2025/7/15 [Cloud  Foundations](./Cloud_Foundations/index.md)
+    - モジュール 7 - ストレージ
+        - ラボ 4 : EBS を使用する
+        - 知識確認テストは来週
+    - モジュール 8 - データベース
+        - 以下は来週
+            - ラボ 5 : データベースサーバーを構築し、アプリケーションを使用してデータベースを操作する
+            - 知識確認テスト
 
 ### Cloud Security Foundations
 
