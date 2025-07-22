@@ -38,7 +38,7 @@
         - アクティビティ: AWS Elastic Beanstalk [Activity 2]
     - モジュール 7 ｰ ストレージ
         - デモンストレーション [Demo] - Amazon Elastic Block Store まで
-- 2025/7/15 [Cloud  Foundations](./Cloud_Foundations/index.md)
+- 2025/7/15 [Cloud Foundations](./Cloud_Foundations/index.md)
     - モジュール 7 - ストレージ
         - ラボ 4 : EBS を使用する
         - 知識確認テストは来週
@@ -46,6 +46,7 @@
         - 以下は来週
             - ラボ 5 : データベースサーバーを構築し、アプリケーションを使用してデータベースを操作する
             - 知識確認テスト
+- 2025/7/22 [Cloud Foundations](./Cloud_Foundations/index.md)
 
 ### Cloud Security Foundations
 
@@ -61,5 +62,27 @@
 
 ### Cloud Foundations
 - 知識確認テスト
+    - モジュール１
+    - モジュール２
+    - モジュール３
+    - モジュール４
+    - モジュール５
+    - モジュール６
+    - モジュール７
+    - モジュール８
+    - モジュール９
+    - モジュール１０
+
 - Lab
+    - ラボ 1 : AWS IAM の紹介
+    - ラボ 2 : VPC を構築し、ウェブサーバーを起動する
+    - ラボ 3 : Amazon EC2 の紹介
+    - ラボ 4 : EBS を使用する
+    - ラボ 5 : データベースサーバーを構築し、アプリケーションを使用してデータベースを操作する
+    - ラボ 6 :アーキテクチャのスケールと負荷分散を行う
+
 - アクティビティ
+    - アクティビティ: AWS Lambda [Activity 1]
+    - アクティビティ: AWS Elastic Beanstalk [Activity 2]
+
+### Cloud Security Foundations
