@@ -53,6 +53,14 @@
     - モジュール１０
         - 以下は来週
             - ラボ 6 :アーキテクチャのスケールと負荷分散を行う
+- 2025/7/29
+    - [Cloud Foundations](./Cloud_Foundations/index.md)
+        - ラボ 6 :アーキテクチャのスケールと負荷分散を行う
+    - [Cloud Security Foundations]()
+        -  モジュール 1: AWS Academy Cloud Security Foundations へようこそ
+        -  モジュール 2: AWS におけるセキュリティの概要
+        -  モジュール 3: クラウドリソースへのアクセスの保護
+            - IAM でのアクセス権管理 まで
 
 ### Cloud Security Foundations
 
@@ -94,3 +102,5 @@
 - コース評価
 
 ### Cloud Security Foundations
+- ナレッジチェック
+    - モジュール2
