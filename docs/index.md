@@ -5,7 +5,6 @@
 ### Orientation
 - 2025/4/15 [オリエンテーション](./Orientation/index.md)
 
-### Cloud Web Application Builder
 - 2025/4/22 [Web Application Builder](./Web_Application_Builder/index.md)
     - [フェーズ1](./Web_Application_Builder/phase1/index.md), [フェーズ2](./Web_Application_Builder/phase2/index.md)
 - 2025/5/13 [Web Application Builder](./Web_Application_Builder/index.md)
@@ -15,7 +14,6 @@
     - [フェーズ4](./Web_Application_Builder/phase4/index.md)
 - 2025/5/27 [Web Application Builder](./Web_Application_Builder/index.md)
 
-### Cloud Foundations
 - 2025/6/3 [Cloud Foundations](./Cloud_Foundations/index.md)
     - モジュール1 - クラウドのコンセプト
     - モジュール2 - クラウドエコノミクスと請求
@@ -66,10 +64,11 @@
         - モジュール 3: クラウドリソースへのアクセスの保護
         - モジュール 4: インフラストラクチャの保護
             - AWS ネットワーク ACL の使用まで
-
-### Cloud Security Foundations
-
-### Kintone
+-2025/9/16
+    - [Cloud Security Foundations]()
+        - モジュール 4: インフラストラクチャの保護
+        - モジュール 5: アプリケーションでのデータの保護
+            - 送信中のデータの保護あで
 
 ## 課題一覧
 ### Web Application Builder
@@ -110,5 +109,7 @@
 - ナレッジチェック
     - モジュール2
     - モジュール3
+    - モジュール4
 - ラボ
     - ラボ 3.1: リソースベースのポリシーを使用して S3 バケットをセキュリティ保護する
+    - ラボ 4.1: セキュリティグループを使用して VPC リソースを保護する
