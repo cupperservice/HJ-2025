@@ -101,6 +101,7 @@
           - ラボ 7.1: AWS Config と Lambda を使用してインシデントを修復する
     - [cybozu の紹介](https://www.youtube.com/watch?v=cflfTV4ERt4)
     - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
+      - スタートガイドを実施。アプリを作成して、kintone の基本操作を学習した
 
 ## 課題一覧
 ### Web Application Builder
