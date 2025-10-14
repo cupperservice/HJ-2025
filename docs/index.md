@@ -99,7 +99,7 @@
     - [Cloud Security Foundations]()
         -  モジュール 7: インシデントへの対応と管理
           - ラボ 7.1: AWS Config と Lambda を使用してインシデントを修復する
-    - [kintone チュートリアル](https://jp.cybozu.help/k/ja/app/setup/create_app/tutorial.html)
+    - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
 
 ## 課題一覧
 ### Web Application Builder
