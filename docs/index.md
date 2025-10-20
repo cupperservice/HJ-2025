@@ -103,6 +103,10 @@
     - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
       - スタートガイド / kintone 共通の操作を実施。アプリを作成して、kintone の基本操作を学習した
 
+- 2025/10/21
+    - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
+        - [アプリ](https://jp.cybozu.help/k/ja/app.html) から
+
 ## 課題一覧
 ### Web Application Builder
 - アーキテクチャ図
