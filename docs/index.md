@@ -107,6 +107,9 @@
     - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
         - [アプリ](https://jp.cybozu.help/k/ja/app.html) のフォームの設計まで
 
+- 2025/10/28
+    - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
+
 ## 課題一覧
 ### Web Application Builder
 - アーキテクチャ図
