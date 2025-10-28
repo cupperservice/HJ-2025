@@ -109,6 +109,9 @@
 
 - 2025/10/28
     - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
+        - [アプリの計算式](https://jp.cybozu.help/k/ja/app/form/autocalc.html)
+        - [アプリアクション](https://jp.cybozu.help/k/ja/app/appaction.html)
+        - [プロセス管理](https://jp.cybozu.help/k/ja/app/process.html)
 
 ## 課題一覧
 ### Web Application Builder
@@ -174,3 +177,12 @@
   アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
 
   提出期限: 2025年10月27日(月) 
+
+- 基本機能を使用した kintone アプリの作成
+  以下の条件を満たした kintone アプリを作成してください。
+    - [アプリアクション](https://jp.cybozu.help/k/ja/app/appaction.html) を利用していること
+    - [プロセス管理](https://jp.cybozu.help/k/ja/app/process.html) を利用していること
+
+  アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
+
+  提出期限: 2025年11月10日(月)
