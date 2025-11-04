@@ -191,6 +191,9 @@
   以下の条件を満たした kintone アプリを作成してください。
     - [アプリアクション](https://jp.cybozu.help/k/ja/app/appaction.html) を利用していること
     - [プロセス管理](https://jp.cybozu.help/k/ja/app/process.html) を利用していること
+    - 以下をアプリの説明に記載すること
+        - アプリを使用して解決する課題
+        - アプリの使用方法
 
       アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
 
@@ -204,6 +207,9 @@
     - [カテゴリーの設定](https://jp.cybozu.help/k/ja/app/category.html) を利用していること
     - [レコードの設定](https://jp.cybozu.help/k/ja/app/view.html) を利用していること
     - Optional: [グラフ](https://jp.cybozu.help/k/ja/app/report.html) を利用していること
+    - 以下をアプリの説明に記載すること
+        - アプリを使用して解決する課題
+        - アプリの使用方法
 
       アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
 
