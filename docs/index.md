@@ -205,7 +205,7 @@
   以下の条件を満たした kintone アプリを作成してください。
     - [アクセス権の設定](https://jp.cybozu.help/k/ja/app/rights.html) を利用していること
     - [カテゴリーの設定](https://jp.cybozu.help/k/ja/app/category.html) を利用していること
-    - [レコードの設定](https://jp.cybozu.help/k/ja/app/view.html) を利用していること
+    - [レコードの一覧](https://jp.cybozu.help/k/ja/app/view.html) を利用していること
     - Optional: [グラフ](https://jp.cybozu.help/k/ja/app/report.html) を利用していること
     - 以下をアプリの説明に記載すること
         - アプリを使用して解決する課題
@@ -213,4 +213,4 @@
 
       アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
 
-      提出期限: 2025年11月25日(月)
+      提出期限: 2025年11月18日(月)
