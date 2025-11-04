@@ -120,6 +120,10 @@
         - [レコードの設定](https://jp.cybozu.help/k/ja/app/view.html)
         - [グラフ](https://jp.cybozu.help/k/ja/app/report.html)
 
+- 2025/11/11
+    - [Plugin](https://jp.cybozu.help/k/ja/app/plugin.html)
+        - [Plugin 例](https://toyokumo-blog.kintoneapp.com/kintone-latest-plugin-m/?utm_source=google&utm_medium=cpc&utm_campaign=kintone_google_pmax_formbridge&utm_term=x&gad_source=1&gad_campaignid=22874656516&gbraid=0AAAAADwnxqmyv0C3UBPb9OzNiVq4vT8gu&gclid=CjwKCAiAwqHIBhAEEiwAx9cTec8Qss39TWejh38HG3pocGnzSZuYdWH6uxzxx-A6bU_lM3uztGBQQBoCG-8QAvD_BwE#kintone%E3%81%AE%E7%84%A1%E6%96%99%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E4%B8%80%E8%A6%A7)
+
 ## 課題一覧
 ### Web Application Builder
 - アーキテクチャ図
