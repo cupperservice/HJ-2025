@@ -113,6 +113,13 @@
         - [アプリアクション](https://jp.cybozu.help/k/ja/app/appaction.html)
         - [プロセス管理](https://jp.cybozu.help/k/ja/app/process.html)
 
+- 2025/11/4
+    - [kintone チュートリアル](https://jp.cybozu.help/k/ja/start.html)
+        - [アクセス権の設定](https://jp.cybozu.help/k/ja/app/rights.html)
+        - [カテゴリーの設定](https://jp.cybozu.help/k/ja/app/category.html)
+        - [レコードの設定](https://jp.cybozu.help/k/ja/app/view.html)
+        - [グラフ](https://jp.cybozu.help/k/ja/app/report.html)
+
 ## 課題一覧
 ### Web Application Builder
 - アーキテクチャ図
@@ -178,6 +185,8 @@
 
       提出期限: 2025年10月27日(月) 
 
+----
+
 - 基本機能を使用した kintone アプリの作成  
   以下の条件を満たした kintone アプリを作成してください。
     - [アプリアクション](https://jp.cybozu.help/k/ja/app/appaction.html) を利用していること
@@ -186,6 +195,8 @@
       アプリの作成が完了したら、アプリの URL を Teams のチャットから連絡してください。
 
       提出期限: 2025年11月10日(月)
+
+----
 
 - 基本機能を使用した kintone アプリの作成  
   以下の条件を満たした kintone アプリを作成してください。
