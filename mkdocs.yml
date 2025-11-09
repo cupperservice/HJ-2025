@@ -29,3 +29,7 @@ nav:
     - フェーズ 2: Web_Application_Builder/phase2/index.md
     - フェーズ 3: Web_Application_Builder/phase3/index.md
     - フェーズ 4: Web_Application_Builder/phase4/index.md
+  - kintone:
+    - プラグイン:
+      - kintone/plugin/index.md
+      - プラグインの管理: kintone/plugin/manage_plugin.md
