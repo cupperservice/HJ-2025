@@ -27,6 +27,7 @@ kintoneプラグインは、kintoneアプリの機能を拡張するためのパ
 
 ### To Do アプリにレコードを追加する
 レコードのフォームは以下のようになっています。
+
 <img src="./img/app/app-3.png" width="300">
 
 いくつかレコードを追加してください。
@@ -36,12 +37,15 @@ kintoneプラグインは、kintoneアプリの機能を拡張するためのパ
 ![](./img/system-settings/plugin-1.png)
 
 2. その他の「プラグイン」をクリックします。
+
     <img src="./img/system-settings/plugin-2.png" width="300">
 
 3. 左上の「読み込む」をクリックします。
+
     <img src="./img/system-settings/plugin-3.png" width="500">
 
 4. 「参照」ボタンをクリックし、追加したいプラグインのzipファイルを選択し、「読み込む」ボタンをクリックします。
+
     <img src="./img/system-settings/plugin-4.png" width="500">
 
     利用可能なプラグインは以下のサイトで検索することができます。  
@@ -51,22 +55,28 @@ kintoneプラグインは、kintoneアプリの機能を拡張するためのパ
     https://cybozu.dev/ja/kintone/tips/development/plugins/sample-plugin/
 
 6. プラグインの一覧に追加したプラグインが表示されます。
+
     <img src="./img/system-settings/plugin-5.png" width="500">
 
 ### アプリへのプラグインの追加手順
 1. プラグインの設定画面を開きます。
+
     <img src="./img/app-settings/app-1.png" width="500">
 
 2. 「＋追加する」をクリックします。
+
     <img src="./img/app-settings/app-2.png" width="500">
 
 3. 追加したいプラグインを選択し、「追加」ボタンをクリックします。
+
     <img src="./img/app-settings/app-3.png" width="500">
 
 4. 追加したプラグインが一覧に表示されます。
+
     <img src="./img/app-settings/app-4.png" width="500">
 
 5. 追加したプラグインの「設定」をクリックし、プラグインの設定画面を開きます。
+
     <img src="./img/app-settings/app-5.png" width="500">
 
 6. プラグインの設定画面で必要な設定を行い、「保存」ボタンをクリックします。
@@ -76,4 +86,5 @@ kintoneプラグインは、kintoneアプリの機能を拡張するためのパ
     <img src="./img/app-settings/app-6.png" width="500">
 
 7. 一覧画面を表示するとプラグインの設定が反映されていることが確認できます。
+
     <img src="./img/app-settings/app-7.png" width="500">
