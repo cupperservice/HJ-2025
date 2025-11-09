@@ -33,3 +33,4 @@ nav:
     - プラグイン:
       - kintone/plugin/index.md
       - プラグインの管理: kintone/plugin/manage_plugin.md
+      - サンプルプラグインの追加: kintone/plugin/sample/add_sample_plugin.md
