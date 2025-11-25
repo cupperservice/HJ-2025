@@ -35,4 +35,6 @@ nav:
       - プラグインの管理: kintone/plugin/manage_plugin.md
       - サンプルプラグインの追加: kintone/plugin/sample/add_sample_plugin.md
       - サンプルプラグイン: kintone/plugin/sample/sample_plugin.md
+    - WordPressとの連携:
+      - kintone/wordpress/index.md
   - 課題一覧: home_works.md
