@@ -10,34 +10,13 @@ WordPress と kintone を連携させることで、kintone のデータを Word
 ## 構築手順
 以下の手順でシステムを構築します。
 
-1. ネットワークを構築する
-2. bastion サーバーを構築する
-3. MariaDB サーバーを構築する
-4. WordPress サーバーを構築する
-5. ALB を構築する
-6. https 化する
-7. kintone と連携する
-
-### 1. ネットワークを構築する
-- VPC
-- インターネットゲートウェイ
-- サブネット
-    - Public Subnet x 2
-    - Private Subnet x 2
-- ルートテーブル
-    - Public Route Table
-    - Private Route Table
-- セキュリティグループ
-    - bastion 用
-    - ALB 用
-    - WordPress 用
-    - MariaDB 用
-
-### 2. bastion サーバーを構築する
-
-### 3. MariaDB サーバーを構築する
-
-### 4. WordPress サーバーを構築する
+1. [ネットワークを構築する](./create_network.md)
+2. [MariaDB サーバーを構築する](./create_mariadb.md)
+3. [WordPress サーバーを構築する](./create_wordpress.md)
+4. [ターゲットグループを作成する](./create_tg.md)
+5. [証明書を発行する](./create_cert.md)
+6. [ALB を構築する](./create_alb.md)
+6. kintone と連携する
 
 ### 5. ALB を構築する
 
