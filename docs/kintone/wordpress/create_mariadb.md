@@ -176,25 +176,25 @@ MariaDB の設定ファイルを編集して、外部から接続できるよう
 sudo vi /etc/my.cnf.d/server.cnf
 ```
 
-以下のように設定を変更します。
+以下のように `#bind-address=0.0.0.0` の先頭の `#` を削除して MariaDB を外部接続可能にします。
 
 * 変更前
 
-    ```
-    #
-    # Allow server to accept connections on all interfaces.
-    #
-    #bind-address=0.0.0.0
-    ```
+```
+#
+# Allow server to accept connections on all interfaces.
+#
+#bind-address=0.0.0.0
+```
 
 * 変更前
 
-    ```
-    #
-    # Allow server to accept connections on all interfaces.
-    #
-    bind-address=0.0.0.0
-    ```
+```
+#
+# Allow server to accept connections on all interfaces.
+#
+bind-address=0.0.0.0
+```
 
 ### MariaDB サーバーを再起動する
 MariaDB サーバーを再起動します。
