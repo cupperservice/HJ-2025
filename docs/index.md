@@ -133,4 +133,7 @@
     - [API を使ってみる](https://cybozu.dev/ja/kintone/docs/overview/)
     - [kintone と WordPress の連携](./kintone/wordpress/index.md)
 
+- 2025/12/9
+    - [kintone と WordPress の連携](./kintone/wordpress/index.md)
+
 ## [課題一覧](./home_works.md)
