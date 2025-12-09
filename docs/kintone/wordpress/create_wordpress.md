@@ -67,37 +67,41 @@ vi wordpress/wp-config.php
 以下の設定を行います：
 
 * DB_NAME を定義する行を探して、`database_name_here` を書き換える
-  ```php
-  define('DB_NAME', 'wordpress-db');
-  ```
+
+```php
+define('DB_NAME', 'wordpress-db');
+```
 
 * DB_USER を定義する行を探して、`username_here` を書き換える
-  ```php
-  define('DB_USER', 'hjuser');
-  ```
+
+```php
+define('DB_USER', 'hjuser');
+```
 
 * DB_PASSWORD を定義する行を探して、`password_here` を書き換える
-  ```php
-  define('DB_PASSWORD', 'password00');
-  ```
+
+```php
+define('DB_PASSWORD', 'password00');
+```
 
 * DB_HOST を定義する行を探して、`localhost` を書き換える
-  ```php
-  define('DB_HOST', 'MariaDBサーバのPrivate IP');
-  ```
+
+```php
+define('DB_HOST', 'MariaDBサーバのPrivate IP');
+```
 
 * `Authentication unique keys and salts.` セクションを探して、`define` で始まる8行を以下で置き換える：
 
-  ```php
-  define('AUTH_KEY',         ' #U$$+[RXN8:b^-L 0(WU_+ c+WFkI~c]o]-bHw+)/A[wSiZ<Qb[mghEXcRh-');
-  define('SECURE_AUTH_KEY',  'Zsz._P=l/|y.Lq)XjlkwS1y5NJ76E6EJ.AV0pCKZZB*~*r ?6OeJT@;+(ndLg');
-  define('LOGGED_IN_KEY',    'ju}qwre3V*+8f_zOWf?{LlGsQ]Ye@2Jh^,8x>)Y |;([]Pi+LG#A4R?7N`YB3');
-  define('NONCE_KEY',        'P(g62HeZxEes|LnI^i=H,[XwK9I&[2s|:?0N}VJM%?;v2+;+^9eXUahg@::Cj');
-  define('AUTH_SALT',        'C$DpB4Hj[JK:?{ql`sRVa:{:7yShy(9A@5w+`Vb1fk%_-Bx*M4(qc[Qg%JT!h');
-  define('SECURE_AUTH_SALT', 'd!uRu#}+q#{f$Z?Z9uFPG.${+S{nM%@~gL>U>NV<zpD-@2-Es7Q1O-bp28EKv');
-  define('LOGGED_IN_SALT',   ';j{00P*owZf)kVD+FVLn-~ >.|Y%Ug4#I^*LVd9QeZ^XmK|e(76miC+&+^0P/');
-  define('NONCE_SALT',       '-97r*V/cgxLmp?Zy4zUU4r99QQ_rGs2LTd%P;|_e1tS8_,.6[=UK<J_y9?JWG');
-  ```
+```php
+define('AUTH_KEY',         ' #U$$+[RXN8:b^-L 0(WU_+ c+WFkI~c]o]-bHw+)/A[wSiZ<Qb[mghEXcRh-');
+define('SECURE_AUTH_KEY',  'Zsz._P=l/|y.Lq)XjlkwS1y5NJ76E6EJ.AV0pCKZZB*~*r ?6OeJT@;+(ndLg');
+define('LOGGED_IN_KEY',    'ju}qwre3V*+8f_zOWf?{LlGsQ]Ye@2Jh^,8x>)Y |;([]Pi+LG#A4R?7N`YB3');
+define('NONCE_KEY',        'P(g62HeZxEes|LnI^i=H,[XwK9I&[2s|:?0N}VJM%?;v2+;+^9eXUahg@::Cj');
+define('AUTH_SALT',        'C$DpB4Hj[JK:?{ql`sRVa:{:7yShy(9A@5w+`Vb1fk%_-Bx*M4(qc[Qg%JT!h');
+define('SECURE_AUTH_SALT', 'd!uRu#}+q#{f$Z?Z9uFPG.${+S{nM%@~gL>U>NV<zpD-@2-Es7Q1O-bp28EKv');
+define('LOGGED_IN_SALT',   ';j{00P*owZf)kVD+FVLn-~ >.|Y%Ug4#I^*LVd9QeZ^XmK|e(76miC+&+^0P/');
+define('NONCE_SALT',       '-97r*V/cgxLmp?Zy4zUU4r99QQ_rGs2LTd%P;|_e1tS8_,.6[=UK<J_y9?JWG');
+```
 
 * ファイル末尾（`/* That's all, stop editing! Happy publishing. */` の直前）に以下を追加：
 
