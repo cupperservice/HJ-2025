@@ -101,13 +101,13 @@ vi wordpress/wp-config.php
 
 * ファイル末尾（`/* That's all, stop editing! Happy publishing. */` の直前）に以下を追加：
 
-    ```php
-    // ALB + HTTPS 対応
-    if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
-      $_SERVER['HTTPS'] = 'on';
-      $_ENV['HTTPS'] = 'on';
-    }
-    ```
+```php
+// ALB + HTTPS 対応
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+  $_SERVER['HTTPS'] = 'on';
+  $_ENV['HTTPS'] = 'on';
+}
+```
 
 ### WordPress を Web サーバのディレクトリに配置する
 
